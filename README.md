@@ -54,11 +54,11 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalam-company/VCPlayerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kalam-Company/VCPlayerBot)
 
 ## Deploy to Railway
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kalam-Company/VCPlayerBot&envs=CHAT,SESSION_NAME,API_ID,API_HASH,TOKEN,ADMIN)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kalam-Company/VCPlayerBot)
 
 ## Deploy to VPS
 
